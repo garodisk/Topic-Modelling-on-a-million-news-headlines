@@ -22,3 +22,5 @@ We will explore this in two ways:
 1) In the first case, we will create embeddings for each headlines using 'Google News wordtovec embeddings' which takes care of the semantic and meaning and cluster the headlines into 8 clusters and see the most frequent words in the different clusters
 
 2) In the second case, we will use LDA ( Latent Dirichlet Allocation) method to model the topics from these headlines. LDA assumes that each headline is taken from a nuber of topics and each topic consists fo several words.
+
+Blog on project : https://medium.com/@saketgarodia/topic-modelling-using-word-embeddings-and-latent-dirichlet-allocation-3494778307bc?source=friends_link&sk=bac3ca1878ac89ea51153370e9173ba6
